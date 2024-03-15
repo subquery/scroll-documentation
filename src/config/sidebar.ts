@@ -132,6 +132,16 @@ export const getSidebar = () => {
             //   },
             // ],
           },
+          {
+            title: t("sidebar.developers.indexers"),
+            url: formatUrl("developers/indexers"),
+            children: [
+              {
+                title: t("sidebar.developers.subquery"),
+                url: formatUrl("developers/indexers/subquery"),
+              },
+            ],
+          },
         ],
       },
       {

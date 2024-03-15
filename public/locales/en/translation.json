@@ -107,7 +107,9 @@
       "rollupExplorer": "Rollup Explorer",
       "scrollSepoliaBlockExplorer": "Scroll Sepolia Explorer",
       "sepoliaRollupExplorer": "Rollup Explorer",
-      "sepoliaBlockExplorer": "Scrollscan Explorer"
+      "sepoliaBlockExplorer": "Scrollscan Explorer",
+      "indexers": "Indexers",
+      "subquery": "SubQuery"
     },
     "technology": {
       "introduction": "Introduction",
